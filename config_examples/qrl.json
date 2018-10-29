@@ -1,5 +1,5 @@
 {
-    "poolHost": "us.qrlmining.info",
+    "poolHost": "DNS-ENTRY-For-Your-Domain.com",
 
     "coin": "Quantum Resistant Ledger",
     "symbol": "QRL",
@@ -27,7 +27,7 @@
     "poolServer": {
         "enabled": true,
         "clusterForks": "auto",
-        "poolAddress": "Q010600cc61f64ab16308f28426248fd32c922f24382caffdf890a7f3b7f26f081b441d4c4ae2e4",
+        "poolAddress": "Q0000000000000000000000000000000000000000000000000000000000000000000000000000000",
         "intAddressPrefix": 19,
         "blockRefreshInterval": 1000,
         "minerTimeout": 900,
@@ -136,7 +136,7 @@
         "port": 8117,
         "blocks": 30,
         "payments": 30,
-        "password": "KLMiu798(99MijiuhYHih7Uvyr$%$^Ftyvyv$D%Drtfvjbu.ddcibgiu",
+        "password": "CHANGE_THIS_OR_GET_HACKED!",
         "ssl": false,
         "sslPort": 8119,
         "sslCert": "./cert.pem",
